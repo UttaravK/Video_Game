@@ -1,4 +1,4 @@
-## CMPE 202 - Team Hackathon Project
+## CMPE 202
 
 # Group Name:
 team202-techninjas
